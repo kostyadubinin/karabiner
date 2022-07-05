@@ -28,30 +28,30 @@
     },
     {
       "description": "Post Escape if Left Control is pressed alone",
-      "manipulators": {
-        "type": "basic",
-        "from": {
-          "key_code": "left_control",
-          "modifiers": {
-            "optional": ["any"]
-          }
-        },
-        "to": [
-          {
+      "manipulators": [
+        {
+          "type": "basic",
+          "from": {
             "key_code": "left_control",
-            "lazy": true
-          }
-        ],
-        "to_if_alone": [
-          {
-            "key_code": "escape"
-          }
-        ]
-      }
-    },
-    {
-      "description": "",
-      "manipulators": {}
+            "modifiers": {
+              "optional": [
+                "any"
+              ]
+            }
+          },
+          "to": [
+            {
+              "key_code": "left_control",
+              "lazy": true
+            }
+          ],
+          "to_if_alone": [
+            {
+              "key_code": "escape"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
