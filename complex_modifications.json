@@ -5,6 +5,30 @@
   ],
   "rules": [
     {
+      "description": "Right Command as Control (rev 1)",
+      "manipulators": [
+        {
+          "type": "basic",
+          "from": {
+            "key_code": "right_command"
+          },
+          "to": [
+            {
+              "key_code": "right_control"
+            }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com\\.adobe\\.Photoshop$"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "description": "Emacs key bindings [C-x key strokes] (rev 2)",
       "manipulators": [
         {
