@@ -5,6 +5,30 @@
   ],
   "rules": [
     {
+      "description": "Semicolon as Escape (rev 1)",
+      "manipulators": [
+        {
+          "type": "basic",
+          "from": {
+            "key_code": "semicolon"
+          },
+          "to": [
+            {
+              "key_code": "escape"
+            }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_if",
+              "bundle_identifiers": [
+                "^com\\.adobe\\.Photoshop$"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "description": "Return as Command (rev 1)",
       "manipulators": [
         {
