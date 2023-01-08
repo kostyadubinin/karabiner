@@ -228,6 +228,7 @@
               "type": "frontmost_application_unless",
               "bundle_identifiers": [
                 "^com\\.jetbrains\\.rubymine$",
+                "^com\\.jetbrains\\.WebStorm$",
                 "^org\\.gnu\\.Emacs$",
                 "^org\\.gnu\\.AquamacsEmacs$",
                 "^org\\.gnu\\.Aquamacs$",
@@ -304,6 +305,7 @@
               "type": "frontmost_application_unless",
               "bundle_identifiers": [
                 "^com\\.jetbrains\\.rubymine$",
+                "^com\\.jetbrains\\.WebStorm$",
                 "^org\\.gnu\\.Emacs$",
                 "^org\\.gnu\\.AquamacsEmacs$",
                 "^org\\.gnu\\.Aquamacs$",
@@ -375,6 +377,7 @@
               "type": "frontmost_application_unless",
               "bundle_identifiers": [
                 "^com\\.jetbrains\\.rubymine$",
+                "^com\\.jetbrains\\.WebStorm$",
                 "^org\\.gnu\\.Emacs$",
                 "^org\\.gnu\\.AquamacsEmacs$",
                 "^org\\.gnu\\.Aquamacs$",
@@ -446,6 +449,7 @@
               "type": "frontmost_application_unless",
               "bundle_identifiers": [
                 "^com\\.jetbrains\\.rubymine$",
+                "^com\\.jetbrains\\.WebStorm$",
                 "^org\\.gnu\\.Emacs$",
                 "^org\\.gnu\\.AquamacsEmacs$",
                 "^org\\.gnu\\.Aquamacs$",
@@ -594,6 +598,7 @@
               "type": "frontmost_application_unless",
               "bundle_identifiers": [
                 "^com\\.jetbrains\\.rubymine$",
+                "^com\\.jetbrains\\.WebStorm$",
                 "^org\\.gnu\\.Emacs$",
                 "^org\\.gnu\\.AquamacsEmacs$",
                 "^org\\.gnu\\.Aquamacs$",
@@ -666,6 +671,7 @@
               "type": "frontmost_application_unless",
               "bundle_identifiers": [
                 "^com\\.jetbrains\\.rubymine$",
+                "^com\\.jetbrains\\.WebStorm$",
                 "^org\\.gnu\\.Emacs$",
                 "^org\\.gnu\\.AquamacsEmacs$",
                 "^org\\.gnu\\.Aquamacs$",
@@ -738,6 +744,7 @@
               "type": "frontmost_application_unless",
               "bundle_identifiers": [
                 "^com\\.jetbrains\\.rubymine$",
+                "^com\\.jetbrains\\.WebStorm$",
                 "^org\\.gnu\\.Emacs$",
                 "^org\\.gnu\\.AquamacsEmacs$",
                 "^org\\.gnu\\.Aquamacs$",
@@ -810,6 +817,7 @@
               "type": "frontmost_application_unless",
               "bundle_identifiers": [
                 "^com\\.jetbrains\\.rubymine$",
+                "^com\\.jetbrains\\.WebStorm$",
                 "^org\\.gnu\\.Emacs$",
                 "^org\\.gnu\\.AquamacsEmacs$",
                 "^org\\.gnu\\.Aquamacs$",
@@ -881,6 +889,7 @@
               "type": "frontmost_application_unless",
               "bundle_identifiers": [
                 "^com\\.jetbrains\\.rubymine$",
+                "^com\\.jetbrains\\.WebStorm$",
                 "^org\\.gnu\\.Emacs$",
                 "^org\\.gnu\\.AquamacsEmacs$",
                 "^org\\.gnu\\.Aquamacs$",
@@ -1079,6 +1088,7 @@
               "type": "frontmost_application_unless",
               "bundle_identifiers": [
                 "^com\\.jetbrains\\.rubymine$",
+                "^com\\.jetbrains\\.WebStorm$",
                 "^org\\.gnu\\.Emacs$",
                 "^org\\.gnu\\.AquamacsEmacs$",
                 "^org\\.gnu\\.Aquamacs$",
@@ -1153,6 +1163,7 @@
               "type": "frontmost_application_unless",
               "bundle_identifiers": [
                 "^com\\.jetbrains\\.rubymine$",
+                "^com\\.jetbrains\\.WebStorm$",
                 "^org\\.gnu\\.Emacs$",
                 "^org\\.gnu\\.AquamacsEmacs$",
                 "^org\\.gnu\\.Aquamacs$",
@@ -1227,6 +1238,7 @@
               "type": "frontmost_application_unless",
               "bundle_identifiers": [
                 "^com\\.jetbrains\\.rubymine$",
+                "^com\\.jetbrains\\.WebStorm$",
                 "^org\\.gnu\\.Emacs$",
                 "^org\\.gnu\\.AquamacsEmacs$",
                 "^org\\.gnu\\.Aquamacs$",
@@ -1300,6 +1312,7 @@
               "type": "frontmost_application_unless",
               "bundle_identifiers": [
                 "^com\\.jetbrains\\.rubymine$",
+                "^com\\.jetbrains\\.WebStorm$",
                 "^org\\.gnu\\.Emacs$",
                 "^org\\.gnu\\.AquamacsEmacs$",
                 "^org\\.gnu\\.Aquamacs$",
@@ -1378,6 +1391,7 @@
               "type": "frontmost_application_unless",
               "bundle_identifiers": [
                 "^com\\.jetbrains\\.rubymine$",
+                "^com\\.jetbrains\\.WebStorm$",
                 "^org\\.gnu\\.Emacs$",
                 "^org\\.gnu\\.AquamacsEmacs$",
                 "^org\\.gnu\\.Aquamacs$",
@@ -1456,6 +1470,7 @@
               "type": "frontmost_application_unless",
               "bundle_identifiers": [
                 "^com\\.jetbrains\\.rubymine$",
+                "^com\\.jetbrains\\.WebStorm$",
                 "^org\\.gnu\\.Emacs$",
                 "^org\\.gnu\\.AquamacsEmacs$",
                 "^org\\.gnu\\.Aquamacs$",
