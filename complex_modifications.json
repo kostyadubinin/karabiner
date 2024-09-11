@@ -227,10 +227,7 @@
             {
               "type": "frontmost_application_unless",
               "bundle_identifiers": [
-                "^com\\.jetbrains\\.rubymine$",
-                "^com\\.jetbrains\\.goland$",
-                "^com\\.jetbrains\\.pycharm$",
-                "^com\\.jetbrains\\.WebStorm$",
+                "^com\\.jetbrains\\..*$",
                 "^org\\.gnu\\.Emacs$",
                 "^org\\.gnu\\.AquamacsEmacs$",
                 "^org\\.gnu\\.Aquamacs$",
@@ -306,10 +303,7 @@
             {
               "type": "frontmost_application_unless",
               "bundle_identifiers": [
-                "^com\\.jetbrains\\.rubymine$",
-                "^com\\.jetbrains\\.goland$",
-                "^com\\.jetbrains\\.pycharm$",
-                "^com\\.jetbrains\\.WebStorm$",
+                "^com\\.jetbrains\\..*$",
                 "^org\\.gnu\\.Emacs$",
                 "^org\\.gnu\\.AquamacsEmacs$",
                 "^org\\.gnu\\.Aquamacs$",
@@ -380,10 +374,7 @@
             {
               "type": "frontmost_application_unless",
               "bundle_identifiers": [
-                "^com\\.jetbrains\\.rubymine$",
-                "^com\\.jetbrains\\.goland$",
-                "^com\\.jetbrains\\.pycharm$",
-                "^com\\.jetbrains\\.WebStorm$",
+                "^com\\.jetbrains\\..*$",
                 "^org\\.gnu\\.Emacs$",
                 "^org\\.gnu\\.AquamacsEmacs$",
                 "^org\\.gnu\\.Aquamacs$",
@@ -454,10 +445,7 @@
             {
               "type": "frontmost_application_unless",
               "bundle_identifiers": [
-                "^com\\.jetbrains\\.rubymine$",
-                "^com\\.jetbrains\\.goland$",
-                "^com\\.jetbrains\\.pycharm$",
-                "^com\\.jetbrains\\.WebStorm$",
+                "^com\\.jetbrains\\..*$",
                 "^org\\.gnu\\.Emacs$",
                 "^org\\.gnu\\.AquamacsEmacs$",
                 "^org\\.gnu\\.Aquamacs$",
@@ -605,10 +593,7 @@
             {
               "type": "frontmost_application_unless",
               "bundle_identifiers": [
-                "^com\\.jetbrains\\.rubymine$",
-                "^com\\.jetbrains\\.goland$",
-                "^com\\.jetbrains\\.pycharm$",
-                "^com\\.jetbrains\\.WebStorm$",
+                "^com\\.jetbrains\\..*$",
                 "^org\\.gnu\\.Emacs$",
                 "^org\\.gnu\\.AquamacsEmacs$",
                 "^org\\.gnu\\.Aquamacs$",
@@ -680,10 +665,7 @@
             {
               "type": "frontmost_application_unless",
               "bundle_identifiers": [
-                "^com\\.jetbrains\\.rubymine$",
-                "^com\\.jetbrains\\.goland$",
-                "^com\\.jetbrains\\.pycharm$",
-                "^com\\.jetbrains\\.WebStorm$",
+                "^com\\.jetbrains\\..*$",
                 "^org\\.gnu\\.Emacs$",
                 "^org\\.gnu\\.AquamacsEmacs$",
                 "^org\\.gnu\\.Aquamacs$",
@@ -755,10 +737,7 @@
             {
               "type": "frontmost_application_unless",
               "bundle_identifiers": [
-                "^com\\.jetbrains\\.rubymine$",
-                "^com\\.jetbrains\\.goland$",
-                "^com\\.jetbrains\\.pycharm$",
-                "^com\\.jetbrains\\.WebStorm$",
+                "^com\\.jetbrains\\..*$",
                 "^org\\.gnu\\.Emacs$",
                 "^org\\.gnu\\.AquamacsEmacs$",
                 "^org\\.gnu\\.Aquamacs$",
@@ -830,10 +809,7 @@
             {
               "type": "frontmost_application_unless",
               "bundle_identifiers": [
-                "^com\\.jetbrains\\.rubymine$",
-                "^com\\.jetbrains\\.goland$",
-                "^com\\.jetbrains\\.pycharm$",
-                "^com\\.jetbrains\\.WebStorm$",
+                "^com\\.jetbrains\\..*$",
                 "^org\\.gnu\\.Emacs$",
                 "^org\\.gnu\\.AquamacsEmacs$",
                 "^org\\.gnu\\.Aquamacs$",
@@ -904,10 +880,7 @@
             {
               "type": "frontmost_application_unless",
               "bundle_identifiers": [
-                "^com\\.jetbrains\\.rubymine$",
-                "^com\\.jetbrains\\.goland$",
-                "^com\\.jetbrains\\.pycharm$",
-                "^com\\.jetbrains\\.WebStorm$",
+                "^com\\.jetbrains\\..*$",
                 "^org\\.gnu\\.Emacs$",
                 "^org\\.gnu\\.AquamacsEmacs$",
                 "^org\\.gnu\\.Aquamacs$",
@@ -1105,10 +1078,7 @@
             {
               "type": "frontmost_application_unless",
               "bundle_identifiers": [
-                "^com\\.jetbrains\\.rubymine$",
-                "^com\\.jetbrains\\.goland$",
-                "^com\\.jetbrains\\.pycharm$",
-                "^com\\.jetbrains\\.WebStorm$",
+                "^com\\.jetbrains\\..*$",
                 "^org\\.gnu\\.Emacs$",
                 "^org\\.gnu\\.AquamacsEmacs$",
                 "^org\\.gnu\\.Aquamacs$",
@@ -1182,10 +1152,7 @@
             {
               "type": "frontmost_application_unless",
               "bundle_identifiers": [
-                "^com\\.jetbrains\\.rubymine$",
-                "^com\\.jetbrains\\.goland$",
-                "^com\\.jetbrains\\.pycharm$",
-                "^com\\.jetbrains\\.WebStorm$",
+                "^com\\.jetbrains\\..*$",
                 "^org\\.gnu\\.Emacs$",
                 "^org\\.gnu\\.AquamacsEmacs$",
                 "^org\\.gnu\\.Aquamacs$",
@@ -1259,10 +1226,7 @@
             {
               "type": "frontmost_application_unless",
               "bundle_identifiers": [
-                "^com\\.jetbrains\\.rubymine$",
-                "^com\\.jetbrains\\.goland$",
-                "^com\\.jetbrains\\.pycharm$",
-                "^com\\.jetbrains\\.WebStorm$",
+                "^com\\.jetbrains\\..*$",
                 "^org\\.gnu\\.Emacs$",
                 "^org\\.gnu\\.AquamacsEmacs$",
                 "^org\\.gnu\\.Aquamacs$",
@@ -1335,10 +1299,7 @@
             {
               "type": "frontmost_application_unless",
               "bundle_identifiers": [
-                "^com\\.jetbrains\\.rubymine$",
-                "^com\\.jetbrains\\.goland$",
-                "^com\\.jetbrains\\.pycharm$",
-                "^com\\.jetbrains\\.WebStorm$",
+                "^com\\.jetbrains\\..*$",
                 "^org\\.gnu\\.Emacs$",
                 "^org\\.gnu\\.AquamacsEmacs$",
                 "^org\\.gnu\\.Aquamacs$",
@@ -1416,10 +1377,7 @@
             {
               "type": "frontmost_application_unless",
               "bundle_identifiers": [
-                "^com\\.jetbrains\\.rubymine$",
-                "^com\\.jetbrains\\.goland$",
-                "^com\\.jetbrains\\.pycharm$",
-                "^com\\.jetbrains\\.WebStorm$",
+                "^com\\.jetbrains\\..*$",
                 "^org\\.gnu\\.Emacs$",
                 "^org\\.gnu\\.AquamacsEmacs$",
                 "^org\\.gnu\\.Aquamacs$",
@@ -1497,10 +1455,7 @@
             {
               "type": "frontmost_application_unless",
               "bundle_identifiers": [
-                "^com\\.jetbrains\\.rubymine$",
-                "^com\\.jetbrains\\.goland$",
-                "^com\\.jetbrains\\.pycharm$",
-                "^com\\.jetbrains\\.WebStorm$",
+                "^com\\.jetbrains\\..*$",
                 "^org\\.gnu\\.Emacs$",
                 "^org\\.gnu\\.AquamacsEmacs$",
                 "^org\\.gnu\\.Aquamacs$",
