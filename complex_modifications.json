@@ -559,7 +559,8 @@
               "optional": [
                 "caps_lock",
                 "shift",
-                "option"
+                "option",
+                "command"
               ]
             }
           },
