@@ -1459,7 +1459,7 @@
       ]
     },
     {
-      "description": "Ctrl+G as Escape (exclude Emacs)",
+      "description": "Ctrl+G as Escape (exclude Emacs, JetBrains)",
       "manipulators": [
         {
           "type": "basic",
@@ -1483,6 +1483,7 @@
             {
               "type": "frontmost_application_unless",
               "bundle_identifiers": [
+                "^com\\.jetbrains\\..*$",
                 "^org\\.gnu\\.Emacs$"
               ]
             }
