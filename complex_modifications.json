@@ -11,7 +11,7 @@
           "type": "basic",
           "from": {
             "key_code": "j"
-          },j
+          },
           "to": [
             {
               "key_code": "right_command"
@@ -2247,6 +2247,38 @@
               "type": "frontmost_application_if",
               "bundle_identifiers": [
                 "^com\\.microsoft\\.VSCode$"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": "Ctrl+G as Escape (exclude Emacs)",
+      "manipulators": [
+        {
+          "type": "basic",
+          "from": {
+            "key_code": "g",
+            "modifiers": {
+              "mandatory": [
+                "control"
+              ],
+              "optional": [
+                "caps_lock"
+              ]
+            }
+          },
+          "to": [
+            {
+              "key_code": "escape"
+            }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^org\\.gnu\\.Emacs$"
               ]
             }
           ]
